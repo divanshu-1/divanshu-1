@@ -52,59 +52,15 @@ I'm a passionate **Full-Stack Developer** with expertise in modern web technolog
 
 ---
 
-## 🌟 Featured Projects
-
-### 🛍️ [ReTag Marketplace](https://github.com/divanshu-1/retag)
-**AI-Powered Sustainable Fashion Platform**
-- 🤖 **AI Integration:** Google Cloud Vision API for automated pricing and quality assessment
-- 💳 **E-commerce:** Complete shopping experience with Razorpay payment integration
-- 🎨 **Modern UI:** Responsive design with Next.js 14 and Tailwind CSS
-- 🔐 **Security:** JWT authentication with Google OAuth 2.0
-
-**Tech Stack:** Next.js, TypeScript, Node.js, MongoDB, Google Cloud Vision API
-
----
-
-### 🎵 [Streamify-UI](https://github.com/divanshu-1/Streamify-UI)
-**Spotify-Inspired Music Player Interface**
-- 🎨 **Responsive Design:** Clean, modern UI with smooth animations
-- ⚡ **Interactive Elements:** Animated cards with hover effects
-- 📱 **Mobile-First:** Optimized for all device sizes
-- 🎵 **Music Bar:** Fixed bottom player interface
-
-**Tech Stack:** HTML5, CSS3, JavaScript
-
----
-
-### 🧠 [Simon Says Memory Game](https://github.com/divanshu-1/simon-says-memory-game)
-**Interactive Memory Challenge Game**
-- 🎮 **Game Logic:** Progressive difficulty with sequence memory testing
-- 🌈 **Visual Design:** Colorful, engaging interface
-- 📱 **Responsive:** Works seamlessly across devices
-- ⚡ **Performance:** Smooth animations and interactions
-
-**Tech Stack:** HTML5, CSS3, JavaScript
-
----
-
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divanshu-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=divanshu-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divanshu-1&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divanshu-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 
 </div>
-
----
-
-## 🌱 Current Focus
-
-- 🔍 **Exploring:** Advanced AI/ML integration in web applications
-- 📚 **Learning:** Cloud architecture patterns and microservices
-- 🚀 **Building:** Next-generation sustainable technology solutions
-- 🤝 **Contributing:** Open source projects and community initiatives
 
 ---
 
